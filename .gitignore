@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Videos
+*.mp4
+*.avi
+*.mkv
+
+# Datasets and models
+dataset/
+frames/
+original/
+fishing/
+*.zip
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# OpenVINO specific
+*_openvino_model/

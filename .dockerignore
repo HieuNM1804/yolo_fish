@@ -1,0 +1,12 @@
+__pycache__/
+.git/
+dataset/
+dataset.zip
+480_openvino_model/
+runs/
+exits/
+*output*.mp4
+*track*.mp4
+poc.mp4
+VideoThaRubik.mp4
+20fps.mp4
