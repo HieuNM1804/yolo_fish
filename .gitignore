@@ -30,3 +30,5 @@ env/
 # Exclude specific heavy models
 640.pt
 960.pt
+infer640.py
+infer960.py
