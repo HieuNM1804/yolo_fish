@@ -5,6 +5,7 @@ __pycache__/
 
 # Videos
 *.mp4
+!output.mp4
 *.avi
 *.mkv
 
