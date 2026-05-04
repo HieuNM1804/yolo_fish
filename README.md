@@ -2,9 +2,6 @@
 
 Dự án này nhằm tự động phát hiện, theo dõi và đếm số lượng cá di chuyển qua camera. Hệ thống được tối ưu hóa trên CPU bằng OpenVINO và sử dụng thuật toán Tracking tùy chỉnh giúp đếm chính xác, chống trùng lặp.
 
-## Demo
-![Demo](output.gif)
-
 ---
 
 ##  Cấu trúc dự án (File Tree)
@@ -58,3 +55,8 @@ Bạn có thể mở file `tracking.py` để trỏ `VIDEO_IN` tới video bạn
 python tracking.py
 ```
 *Ghi chú: Trong lúc chạy, nhấn phím `q` để thoát hiển thị. Kết quả cuối cùng (Video có vẽ hộp thoại và bộ đếm) sẽ được tự động xuất ra file (ví dụ: `track_480.mp4`).*
+
+---
+
+## Demo
+![Demo](output.gif)
