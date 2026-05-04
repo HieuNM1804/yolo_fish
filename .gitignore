@@ -25,4 +25,8 @@ env/
 .vscode/
 
 # OpenVINO specific
-*_openvino_model/
+# *_openvino_model/
+
+# Exclude specific heavy models
+640.pt
+960.pt
