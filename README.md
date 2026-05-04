@@ -2,6 +2,9 @@
 
 Dự án này nhằm tự động phát hiện, theo dõi và đếm số lượng cá di chuyển qua camera. Hệ thống được tối ưu hóa trên CPU bằng OpenVINO và sử dụng thuật toán Tracking tùy chỉnh giúp đếm chính xác, chống trùng lặp.
 
+## Demo
+![Demo](output.gif)
+
 ---
 
 ##  Cấu trúc dự án (File Tree)
